@@ -1,0 +1,51 @@
+Database Kejaksaan
+
+tb_pengaduan_pegawai
+- nama
+- nohp
+- foto_ktp
+- foto_laporan
+- status
+
+tb_pengaduan_korupsi
+- nama_pelapor
+- nohp
+- foto_ktp
+- uraian_laporan
+- foto_laporan
+- status
+
+tb_jaksa
+- sekolah
+- nama
+
+tb_penyuluhan
+- nama
+- nohp
+- foto_ktp
+- foto_permasalahan
+- status
+
+tb_pengawasan
+- nama
+- nohp
+- foto_ktp
+- foto_laporan
+- status
+
+tb_pilkada
+- nama
+- nohp
+- foto_ktp
+- foto_laporan
+- kategori
+- status
+
+tb_user
+- nama
+- email
+- nohp
+- nik
+- password
+- alamat
+- status
